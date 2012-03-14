@@ -1,9 +1,1 @@
-secret_password
-*~
-*.logdb/schema.rb
-tmp/*/*
-log/*
-config/database.yaml
-config/environments/production.rb
-db/schema.sql
-*.[oa]
+*.xxx
