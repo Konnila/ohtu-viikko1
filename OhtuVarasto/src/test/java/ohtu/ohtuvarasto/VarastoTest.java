@@ -49,7 +49,7 @@ public class VarastoTest {
     @Test
     public void oikeaToString() {
         
-        String expected = "saldo = 0.0, vielä tilaa 10.0";
+        String expected = "saldo = 0.0, viela tilaa 10.0";
         assertEquals(expected, varasto.toString());
     }
     
